@@ -223,11 +223,13 @@ vertical: body pane on the botton</t>
     
     
         &lt;small&gt;&lt;p&gt;Created by 
+            &lt;a href="https://40823131.github.io/cd2021/content/index.html"&gt;組長40823131&lt;/a&gt;
+        
          &lt;a href="https://40823123.github.io/stage2-ag11/"&gt;小組網站&lt;/a&gt;
          &lt;a href="https://40823123.github.io/cd2021/content/index.html"&gt;組員40823123&lt;/a&gt;
           &lt;a href="https://40823116.github.io/cd2021/content/index.html"&gt;組員40823116&lt;/a&gt;
           
-        &lt;a href="https://40823131.github.io/cd2021/content/index.html"&gt;組長40823131&lt;/a&gt;
+    
         
          &lt;a href="https://40823136.github.io/cd2021/content/index.html"&gt;組員40823136&lt;/a&gt;
         
@@ -249,11 +251,9 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+<t tx="leo.20200818170725.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
 
 </t>
