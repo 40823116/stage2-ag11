@@ -30,6 +30,9 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210416200704.1"><vh>3-4</vh></v>
+<v t="leo.20210416200704.2"><vh>3-5</vh></v>
+<v t="leo.20210416200705.1"><vh>3-6</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
@@ -253,27 +256,33 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;W7W8進度&lt;/h2&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
+    &lt;h2&gt;程式控制運輸小車&lt;/h2&gt;
+    &lt;p&gt;
+  利用控制各輪軸的速度，以達到控制車體前進後退及轉向。
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0r_2b2W192o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+       
+    &lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;程式講解&lt;/h2&gt;
+   
+   
+   
+   
+   
+   
+   
+       
+    &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
@@ -663,6 +672,11 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20210416192514.1">&lt;section&gt;
     &lt;h2&gt;運輸小車繪製&lt;/h2&gt;
    &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%962.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+       &lt;a href="https://drive.google.com/file/d/1HULgTeENzh3tGrNMneSqoOs3D_XNICU-/view?usp=sharing"&gt;Stl檔&lt;/a&gt;
+       &lt;a href="https://drive.google.com/file/d/11L6R_NlkVavxR1QjsBnwVqe7aqBPAduU/view?usp=sharing"&gt;Ipt檔&lt;/a&gt;
+ 後續將進行程式編寫，以配合整體輸送帶的運作流程。
+       
+       
        
     
 &lt;/section&gt;</t>
@@ -693,10 +707,40 @@ console.log( '"customevent" has fired' );
     &lt;h2&gt;W5W6進度&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210416195509.1">&lt;section&gt;
-    &lt;h2&gt;運輸小車繪製&lt;/h2&gt;
+    &lt;h2&gt;倉庫繪製&lt;/h2&gt;
    &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%963.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+        &lt;a href="https://40823123.github.io/stage2-ag11/downloads/%E5%85%AC%E5%BB%9F.STL"&gt;Stl檔&lt;/a&gt;
+        &lt;a href="https://drive.google.com/file/d/1BDlUg-Wp6682xEMiiKycW0paN4jO9Fd7/view?usp=sharing"&gt;圖檔&lt;/a&gt;
+       
+       
        
     
 &lt;/section&gt;</t>
+<t tx="leo.20210416200704.1">&lt;section&gt;
+    &lt;h2&gt;程式控制真空機械手臂&lt;/h2&gt;
+    &lt;p&gt;
+ 利用CoppeliaSim內建的機械手臂修改裏頭的程式
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FWBZ8fuP7H0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+       
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210416200704.2">&lt;section&gt;
+    &lt;h2&gt;程式講解&lt;/h2&gt;
+   
+   
+   
+   
+   
+   
+   
+       
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210416200705.1"></t>
 </tnodes>
 </leo_file>
