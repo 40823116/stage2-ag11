@@ -264,7 +264,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
     &lt;h2&gt;程式控制運輸小車&lt;/h2&gt;
     &lt;p&gt;
-  利用控制各輪軸的速度，以達到控制車體前進後退及轉向。
+    &lt;p&gt;
+  利用控制各輪軸的速度，以達到控制車體前進後退及轉向。&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0r_2b2W192o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
@@ -676,7 +677,7 @@ console.log( '"customevent" has fired' );
    &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%962.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
        &lt;a href="https://drive.google.com/file/d/1HULgTeENzh3tGrNMneSqoOs3D_XNICU-/view?usp=sharing"&gt;Stl檔&lt;/a&gt;
        &lt;a href="https://drive.google.com/file/d/11L6R_NlkVavxR1QjsBnwVqe7aqBPAduU/view?usp=sharing"&gt;Ipt檔&lt;/a&gt;
- 後續將進行程式編寫，以配合整體輸送帶的運作流程。
+ &lt;p&gt;後續將進行程式編寫，以配合整體輸送帶的運作流程。&lt;/p&gt;
        
        
        
@@ -684,13 +685,13 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210416192515.1">&lt;section&gt;
     &lt;h2&gt;小組分工&lt;/h2&gt;
-   40823116:繪製運輸小車。
+   &lt;p&gt;40823116:繪製運輸小車 製作pdf。&lt;/p&gt;
 
-40823123:coppeliasim模擬、可用資料查找及整合。
+&lt;p&gt;40823123:coppeliasim模擬、繪製倉庫 製作reveal 可用資料查找及整合。&lt;/p&gt;
 
-40823131:運輸小車程式編寫、修改運輸小車、coppeliasim模擬調整、網頁協同、構思。
+&lt;p&gt;40823131:運輸小車程式編寫、修改運輸小車、coppeliasim模擬調整、網頁協同、構思。&lt;/p&gt;
 
-40823136:機械手臂程式編寫、coppeliasim模擬調整、可用資料查找及整合、構思。
+&lt;p&gt;40823136:機械手臂程式編寫、coppeliasim模擬調整、可用資料查找及整合、構思。&lt;/p&gt;
        
     &lt;/p&gt;
 &lt;/section&gt;</t>
@@ -720,8 +721,10 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210416200704.1">&lt;section&gt;
     &lt;h2&gt;程式控制真空機械手臂&lt;/h2&gt;
+    
     &lt;p&gt;
- 利用CoppeliaSim內建的機械手臂修改裏頭的程式
+    &lt;p&gt;
+ 利用CoppeliaSim內建的機械手臂修改裏頭的程式&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FWBZ8fuP7H0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
