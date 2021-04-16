@@ -19,7 +19,12 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20200818170535.1"><vh>slide 2</vh>
+<v t="leo.20210416192517.1"><vh>2-1</vh></v>
+<v t="leo.20210416192516.1"><vh>2-2</vh></v>
+<v t="leo.20210416192515.1"><vh>2-3</vh></v>
+<v t="leo.20210416192514.1"><vh>2-4</vh></v>
+</v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -208,13 +213,23 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
+   &lt;h3&gt; stage2-ag11簡報&lt;/h3&gt;
+    
+    
+        &lt;small&gt;&lt;p&gt;Created by 
+         &lt;a href="git@github.com:40823131/stage2-ag11.git/"&gt;小組網站&lt;/a&gt;
+         &lt;a href="https://40823123.github.io/cd2021/content/index.html"&gt;組員40823123&lt;/a&gt;
+          &lt;a href="https://40823116.github.io/cd2021/content/index.html"&gt;組員40823116&lt;/a&gt;
+          
+        &lt;a href="https://40823131.github.io/cd2021/content/index.html"&gt;組長40823131&lt;/a&gt;
+        
+         &lt;a href="https://40823136.github.io/cd2021/content/index.html"&gt;組員40823136&lt;/a&gt;
+        
+        
+        
+        
+&lt;/p&gt;&lt;/small&gt;
+    
 &lt;/section&gt;
 
 </t>
@@ -648,5 +663,9 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210416192514.1"></t>
+<t tx="leo.20210416192515.1"></t>
+<t tx="leo.20210416192516.1"></t>
+<t tx="leo.20210416192517.1"></t>
 </tnodes>
 </leo_file>
