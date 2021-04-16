@@ -24,6 +24,7 @@
 <v t="leo.20210416192516.1"><vh>2-2</vh></v>
 <v t="leo.20210416192515.1"><vh>2-3</vh></v>
 <v t="leo.20210416192514.1"><vh>2-4</vh></v>
+<v t="leo.20210416195509.1"><vh>2-5</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -217,7 +218,7 @@ vertical: body pane on the botton</t>
     
     
         &lt;small&gt;&lt;p&gt;Created by 
-         &lt;a href="git@github.com:40823131/stage2-ag11.git/"&gt;小組網站&lt;/a&gt;
+         &lt;a href="https://40823123.github.io/stage2-ag11/"&gt;小組網站&lt;/a&gt;
          &lt;a href="https://40823123.github.io/cd2021/content/index.html"&gt;組員40823123&lt;/a&gt;
           &lt;a href="https://40823116.github.io/cd2021/content/index.html"&gt;組員40823116&lt;/a&gt;
           
@@ -233,14 +234,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+<t tx="leo.20200818170535.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
@@ -663,9 +660,43 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210416192514.1"></t>
-<t tx="leo.20210416192515.1"></t>
-<t tx="leo.20210416192516.1"></t>
-<t tx="leo.20210416192517.1"></t>
+<t tx="leo.20210416192514.1">&lt;section&gt;
+    &lt;h2&gt;運輸小車繪製&lt;/h2&gt;
+   &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%962.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+       
+    
+&lt;/section&gt;</t>
+<t tx="leo.20210416192515.1">&lt;section&gt;
+    &lt;h2&gt;小組分工&lt;/h2&gt;
+   40823116:繪製運輸小車。
+
+40823123:coppeliasim模擬、可用資料查找及整合。
+
+40823131:運輸小車程式編寫、修改運輸小車、coppeliasim模擬調整、網頁協同、構思。
+
+40823136:機械手臂程式編寫、coppeliasim模擬調整、可用資料查找及整合、構思。
+       
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210416192516.1">&lt;section&gt;
+    &lt;h2&gt;主題選定&lt;/h2&gt;
+    &lt;p&gt;
+       在討論後，決定以自動化生產線做為主軸進行延伸，將利用coppeliasim中所配有的模組進行程式編寫，再加入另外繪製的部分，來完成此專案。
+
+
+       &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%961.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+       
+       
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210416192517.1">&lt;section&gt;
+    &lt;h2&gt;W5W6進度&lt;/h2&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210416195509.1">&lt;section&gt;
+    &lt;h2&gt;運輸小車繪製&lt;/h2&gt;
+   &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%963.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+       
+    
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
