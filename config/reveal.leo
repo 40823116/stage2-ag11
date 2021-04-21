@@ -29,7 +29,6 @@
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 <v t="leo.20210416200704.1"><vh>3-4</vh></v>
 <v t="leo.20210416200704.2"><vh>3-5</vh></v>
 </v>
@@ -272,18 +271,6 @@ vertical: body pane on the botton</t>
 
 
 
-       
-    &lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;程式講解&lt;/h2&gt;
-   
-    &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%961.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
-   
-   
-   
-   
-   
        
     &lt;/p&gt;
 &lt;/section&gt;</t>
@@ -738,7 +725,7 @@ console.log( '"customevent" has fired' );
     &lt;h2&gt;程式講解&lt;/h2&gt;
    
    
-    &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%961.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src="https://github.com/40823131/stage2-ag11/blob/main/images/%E6%B0%A3%E7%90%83456.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
    
    
    
