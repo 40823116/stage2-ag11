@@ -161,11 +161,13 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20200818165234.1">@language xml
 @tabwidth -4
-@others</t>
+@others
+</t>
 <t tx="leo.20200818165301.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
-&lt;/html&gt;</t>
+&lt;/html&gt;
+</t>
 <t tx="leo.20200818165413.1">&lt;body&gt;
 @others
     &lt;script src="dist/reveal.js"&gt;&lt;/script&gt;
@@ -189,7 +191,8 @@ vertical: body pane on the botton</t>
         });
 
     &lt;/script&gt;
-&lt;/body&gt;</t>
+&lt;/body&gt;
+</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
@@ -209,14 +212,17 @@ vertical: body pane on the botton</t>
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
-&lt;/head&gt;</t>
+&lt;/head&gt;
+</t>
 <t tx="leo.20200818170041.1">&lt;div class="reveal"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170222.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
    &lt;h3&gt; stage2-ag11簡報&lt;/h3&gt;
     
@@ -243,7 +249,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
@@ -273,7 +280,8 @@ vertical: body pane on the botton</t>
 
        
     &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
@@ -424,7 +432,8 @@ vertical: body pane on the botton</t>
         This slide has fragments which are also stepped through in the notes window.
     &lt;/aside&gt;
 &lt;/section&gt;
- </t>
+ 
+</t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
     &lt;h2&gt;Fragment Styles&lt;/h2&gt;
     &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
@@ -440,7 +449,8 @@ vertical: body pane on the botton</t>
     &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
     &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
     &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818195039.1">&lt;section id="themes"&gt;
     &lt;h2&gt;Themes&lt;/h2&gt;
     &lt;p&gt;
@@ -503,7 +513,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818195339.1">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
     &lt;h2&gt;... and GIFs!&lt;/h2&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818195403.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h2&gt;Background Transitions&lt;/h2&gt;
     &lt;p&gt;
@@ -658,7 +669,8 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210416192514.1">&lt;section&gt;
     &lt;h2&gt;運輸小車繪製&lt;/h2&gt;
    &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%962.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
@@ -669,7 +681,8 @@ console.log( '"customevent" has fired' );
        
        
     
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210416192515.1">&lt;section&gt;
     &lt;h2&gt;小組分工&lt;/h2&gt;
    &lt;p&gt;40823116:繪製運輸小車 製作pdf。&lt;/p&gt;
@@ -681,7 +694,8 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;40823136:機械手臂程式編寫、coppeliasim模擬調整、可用資料查找及整合、構思。&lt;/p&gt;
        
     &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210416192516.1">&lt;section&gt;
     &lt;h2&gt;主題選定&lt;/h2&gt;
     &lt;p&gt;
@@ -692,10 +706,12 @@ console.log( '"customevent" has fired' );
        
        
     &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210416192517.1">&lt;section&gt;
     &lt;h2&gt;W5W6進度&lt;/h2&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210416195509.1">&lt;section&gt;
     &lt;h2&gt;倉庫繪製&lt;/h2&gt;
    &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%963.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
@@ -705,7 +721,8 @@ console.log( '"customevent" has fired' );
        
        
     
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210416200704.1">&lt;section&gt;
     &lt;h2&gt;程式控制真空機械手臂&lt;/h2&gt;
     
@@ -720,7 +737,8 @@ console.log( '"customevent" has fired' );
 
        
     &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210416200704.2">&lt;section&gt;
     &lt;h2&gt;程式講解&lt;/h2&gt;
    
@@ -732,16 +750,19 @@ console.log( '"customevent" has fired' );
    
        
     &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210416201051.1">&lt;section&gt;
     &lt;h2&gt;PDF&lt;/h2&gt;
     
     
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210416201122.1">&lt;section&gt;
     &lt;h2&gt;產品設計報告&lt;/h2&gt;
-        &lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1JF3wlpSEu6WfFs2OE1-J-ncj2jfDRjah/view?usp=sharing" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;iframe height="550" src="https://app.luminpdf.com/viewer/607ff69652b975001173d61f" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
