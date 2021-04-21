@@ -673,7 +673,7 @@ console.log( '"customevent" has fired' );
 </t>
 <t tx="leo.20210416192514.1">&lt;section&gt;
     &lt;h2&gt;運輸小車繪製&lt;/h2&gt;
-   &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%962.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%962.png?raw=true" alt="" width="550" height="300"&gt;&lt;/p&gt;
        &lt;a href="https://drive.google.com/file/d/1HULgTeENzh3tGrNMneSqoOs3D_XNICU-/view?usp=sharing"&gt;Stl檔&lt;/a&gt;
        &lt;a href="https://drive.google.com/file/d/11L6R_NlkVavxR1QjsBnwVqe7aqBPAduU/view?usp=sharing"&gt;Ipt檔&lt;/a&gt;
  &lt;p&gt;後續將進行程式編寫，以配合整體輸送帶的運作流程。&lt;/p&gt;
@@ -743,7 +743,7 @@ console.log( '"customevent" has fired' );
     &lt;h2&gt;程式講解&lt;/h2&gt;
    
    
-    &lt;p&gt;&lt;img src="https://github.com/40823131/stage2-ag11/blob/main/images/%E6%B0%A3%E7%90%83456.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src="https://github.com/40823131/stage2-ag11/blob/main/images/%E6%B0%A3%E7%90%83456.png?raw=true" alt="" width="700" height="500"&gt;&lt;/p&gt;
    
    
    
@@ -760,7 +760,7 @@ console.log( '"customevent" has fired' );
 </t>
 <t tx="leo.20210416201122.1">&lt;section&gt;
     &lt;h2&gt;產品設計報告&lt;/h2&gt;
-        &lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1JF3wlpSEu6WfFs2OE1-J-ncj2jfDRjah/preview" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1WhjiEDlr2Sxcuem5wkHbRT5_NMQXDEjn/preview" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
 &lt;/section&gt;
 </t>
