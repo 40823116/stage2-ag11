@@ -278,7 +278,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
     &lt;h2&gt;程式講解&lt;/h2&gt;
    
-   
+    &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%961.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
    
    
    
@@ -738,7 +738,7 @@ console.log( '"customevent" has fired' );
     &lt;h2&gt;程式講解&lt;/h2&gt;
    
    
-   
+    &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E7%B5%84%E5%9C%961.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
    
    
    
