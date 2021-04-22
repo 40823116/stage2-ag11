@@ -29,6 +29,7 @@
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
+<v t="leo.20210422133559.1"><vh>3-3</vh></v>
 <v t="leo.20210416200704.1"><vh>3-4</vh></v>
 <v t="leo.20210416200704.2"><vh>3-5</vh></v>
 </v>
@@ -433,6 +434,23 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;產品設計報告&lt;/h2&gt;
         &lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1WhjiEDlr2Sxcuem5wkHbRT5_NMQXDEjn/preview" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422133559.1">&lt;section&gt;
+    &lt;h2&gt;程式講解&lt;/h2&gt;
+   
+   
+    &lt;p&gt;&lt;img src="https://github.com/40823131/stage2-ag11/blob/main/images/%E6%88%91%E7%9A%84%E5%A4%A9'.png?raw=true" alt="" width="700" height="500"&gt;&lt;/p&gt;
+   
+    &lt;a href="https://drive.google.com/drive/folders/16vkf3ZcuTx8L6LtFXC3AL9HxMtmKlkGr?usp=sharing"&gt;方向鍵控制txt&lt;/a&gt;
+    
+    
+     &lt;a href="https://drive.google.com/file/d/1PAFOR7fcvU64vILdy1xCHxGaWyzhrd55/view"&gt;方向鍵版本&lt;/a&gt;
+   
+   
+     &lt;a href="https://drive.google.com/file/d/1S2tbA13XlZ3vy5mn0iWbZ6yM0EBS_wDQ/view?usp=sharing"&gt;速率版本&lt;/a&gt;
+       
+    &lt;/p&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
