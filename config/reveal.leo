@@ -438,17 +438,15 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210422133559.1">&lt;section&gt;
     &lt;h2&gt;程式講解&lt;/h2&gt;
-   
-   
     &lt;p&gt;&lt;img src="https://github.com/40823131/stage2-ag11/blob/main/images/%E6%88%91%E7%9A%84%E5%A4%A9'.png?raw=true" alt="" width="700" height="500"&gt;&lt;/p&gt;
    
-    &lt;a href="https://drive.google.com/drive/folders/16vkf3ZcuTx8L6LtFXC3AL9HxMtmKlkGr?usp=sharing"&gt;方向鍵控制txt&lt;/a&gt;
-    
-    
-     &lt;a href="https://drive.google.com/file/d/1PAFOR7fcvU64vILdy1xCHxGaWyzhrd55/view"&gt;方向鍵版本&lt;/a&gt;
-   
-   
-     &lt;a href="https://drive.google.com/file/d/1S2tbA13XlZ3vy5mn0iWbZ6yM0EBS_wDQ/view?usp=sharing"&gt;速率版本&lt;/a&gt;
+             &lt;a href="https://drive.google.com/drive/folders/16vkf3ZcuTx8L6LtFXC3AL9HxMtmKlkGr?usp=sharing"&gt;方向鍵控制txt&lt;/a&gt;
+  
+       &lt;a href="https://drive.google.com/file/d/1PAFOR7fcvU64vILdy1xCHxGaWyzhrd55/view"&gt;方向鍵版本&lt;/a&gt;
+          &lt;a href="https://drive.google.com/file/d/1S2tbA13XlZ3vy5mn0iWbZ6yM0EBS_wDQ/view?usp=sharing"&gt;速率版本&lt;/a&gt;
+       
+       
+       
        
     &lt;/p&gt;
 &lt;/section&gt;
