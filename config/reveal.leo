@@ -29,7 +29,6 @@
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="123.20210421234835.1"><vh>3-3</vh></v>
 <v t="leo.20210416200704.1"><vh>3-4</vh></v>
 <v t="leo.20210416200704.2"><vh>3-5</vh></v>
 </v>
@@ -37,11 +36,41 @@
 <v t="leo.20210416201051.1"><vh>4-1</vh></v>
 <v t="leo.20210416201122.1"><vh>4-2</vh></v>
 </v>
-<v t="123.20210421235811.1"><vh>slide5</vh>
-<v t="123.20210422001514.1"><vh>5-1</vh></v>
-<v t="123.20210422001528.1"><vh>5-2</vh></v>
-<v t="123.20210422002134.1"><vh>5-3</vh></v>
+<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="leo.20200818171215.1"><vh>slide 6</vh></v>
+<v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
+<v t="leo.20200818171312.1"><vh>slide 8</vh></v>
+<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
+<v t="leo.20200818171412.1"><vh>slide 10</vh></v>
+<v t="leo.20200818194721.1"><vh>slide 11</vh></v>
+<v t="leo.20200818194751.1"><vh>slide 12</vh></v>
+<v t="leo.20200818194812.1"><vh>slide 13</vh>
+<v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
+<v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
 </v>
+<v t="leo.20200818194840.1"><vh>slide 14</vh></v>
+<v t="leo.20200818195039.1"><vh>slide 15</vh></v>
+<v t="leo.20200818195105.1"><vh>slide 16</vh>
+<v t="leo.20200818195213.1"><vh>slide 16-1</vh></v>
+<v t="leo.20200818195237.1"><vh>slide 16-2</vh></v>
+<v t="leo.20200818195305.1"><vh>slide 16-3</vh></v>
+<v t="leo.20200818195323.1"><vh>slide 16-4</vh></v>
+<v t="leo.20200818195339.1"><vh>slide 16-5</vh></v>
+</v>
+<v t="leo.20200818195147.1"><vh>slide 17</vh></v>
+<v t="leo.20200818195403.1"><vh>slide 18</vh></v>
+<v t="leo.20200818195426.1"><vh>slide 19</vh></v>
+<v t="leo.20200818195445.1"><vh>slide 20</vh></v>
+<v t="leo.20200818195502.1"><vh>slide 21</vh></v>
+<v t="leo.20200818195520.1"><vh>slide 22</vh></v>
+<v t="leo.20200818195541.1"><vh>slide 23</vh></v>
+<v t="leo.20200818195604.1"><vh>slide 24</vh></v>
+<v t="leo.20200818195625.1"><vh>slide 25</vh></v>
+<v t="leo.20200818195643.1"><vh>slide 26</vh></v>
+<v t="leo.20200818195701.1"><vh>slide 27</vh></v>
+<v t="leo.20200818195715.1"><vh>slide 28</vh></v>
+<v t="leo.20200818195731.1"><vh>slide 29</vh></v>
+<v t="leo.20200818195748.1"><vh>slide 30</vh></v>
 <v t="leo.20200818195800.1"><vh>slide 31</vh></v>
 </v>
 </v>
@@ -52,35 +81,6 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="123.20210421234835.1">&lt;section&gt;
-    &lt;h2&gt;利用鍵盤控制運輸小車&lt;/h2&gt;
-    &lt;p&gt;利用方向鍵搭配空白鍵(停止)，控制各輪軸的速度，以達到控制車體前進後退及轉向。&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/h55FSeGb_FU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;/section&gt;
-</t>
-<t tx="123.20210421235811.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
-&lt;/section&gt;
-</t>
-<t tx="123.20210422001514.1">&lt;section&gt;
-    &lt;h2&gt;成果&lt;/h2&gt;
-    
-    
-&lt;/section&gt;</t>
-<t tx="123.20210422001528.1">&lt;section&gt;
-    &lt;h2&gt;自動化生產線模擬結果(速度控制版)&lt;/h2&gt;
-        &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aYc9zRlRp4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;/section&gt;
-</t>
-<t tx="123.20210422002134.1">&lt;section&gt;
-    &lt;h2&gt;自動化生產線模擬結果(鍵盤控制版)&lt;/h2&gt;
-        &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/anxSaGoiDPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;/section&gt;
-</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120538.1"></t>
@@ -274,7 +274,66 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0r_2b2W192o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
     
 &lt;/section&gt;
+&lt;section&gt;
+    &lt;h2&gt;利用鍵盤控制運輸小車&lt;/h2&gt;
+    &lt;p&gt;利用方向鍵搭配空白鍵(停止)，控制各輪軸的速度，以達到控制車體前進後退及轉向。&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/h55FSeGb_FU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;/section&gt;
 </t>
+<t tx="leo.20200818171138.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;成果&lt;/h2&gt;
+        
+        
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自動化生產線模擬結果(速度控制版)&lt;/h2&gt;
+            &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aYc9zRlRp4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自動化生產線模擬結果(鍵盤控制版)&lt;/h2&gt;
+            &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/anxSaGoiDPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+</t>
+<t tx="leo.20200818171215.1">    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200818171244.1"></t>
+<t tx="leo.20200818171312.1"></t>
+<t tx="leo.20200818171344.1"></t>
+<t tx="leo.20200818171412.1"></t>
+<t tx="leo.20200818194721.1"></t>
+<t tx="leo.20200818194751.1"></t>
+<t tx="leo.20200818194812.1">     @others
+</t>
+<t tx="leo.20200818194840.1"></t>
+<t tx="leo.20200818194908.1"></t>
+<t tx="leo.20200818194933.1"></t>
+<t tx="leo.20200818195039.1"></t>
+<t tx="leo.20200818195105.1">    @others
+</t>
+<t tx="leo.20200818195147.1"></t>
+<t tx="leo.20200818195213.1"></t>
+<t tx="leo.20200818195237.1"></t>
+<t tx="leo.20200818195305.1"></t>
+<t tx="leo.20200818195323.1"></t>
+<t tx="leo.20200818195339.1"></t>
+<t tx="leo.20200818195403.1"></t>
+<t tx="leo.20200818195426.1"></t>
+<t tx="leo.20200818195445.1"></t>
+<t tx="leo.20200818195502.1"></t>
+<t tx="leo.20200818195520.1"></t>
+<t tx="leo.20200818195541.1"></t>
+<t tx="leo.20200818195604.1"></t>
+<t tx="leo.20200818195625.1"></t>
+<t tx="leo.20200818195643.1"></t>
+<t tx="leo.20200818195701.1"></t>
+<t tx="leo.20200818195715.1"></t>
+<t tx="leo.20200818195731.1"></t>
+<t tx="leo.20200818195748.1"></t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;p&gt;
@@ -355,7 +414,7 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;程式講解&lt;/h2&gt;
    
    
-    &lt;p&gt;&lt;img src="https://github.com/40823131/stage2-ag11/blob/main/images/%E6%B0%A3%E7%90%83456.png?raw=true" alt="" width="700" height="500"&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src="https://github.com/40823131/stage2-ag11/blob/main/images/%E6%9C%80%E7%B5%82%E5%96%94.jpg?raw=true" alt="" width="700" height="500"&gt;&lt;/p&gt;
    
    
    
