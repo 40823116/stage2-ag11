@@ -440,7 +440,7 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;程式講解&lt;/h2&gt;
    
    
-    &lt;p&gt;&lt;img src="https://github.com/40823131/stage2-ag11/blob/main/images/%E6%9C%80%E7%B5%82%E5%96%94.jpg?raw=true" alt="" width="700" height="500"&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src="https://github.com/40823131/stage2-ag11/blob/main/images/%E6%88%91%E7%9A%84%E5%A4%A9'.png?raw=true" alt="" width="700" height="500"&gt;&lt;/p&gt;
    
    
    
